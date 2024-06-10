@@ -13,5 +13,5 @@
 - [Badge](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Badge/README.md)
 
 Полезные ссылки:
-[Ссылка](https://github.com/Raiffeisen-DGTL/ViennaUI) на дизайн систему
-[Документация](https://styled-components.com/docs) для styled-components
+- [Дизайн система](https://github.com/Raiffeisen-DGTL/ViennaUI)
+- [Документация](https://styled-components.com/docs) для styled-components

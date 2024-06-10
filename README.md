@@ -1,30 +1,17 @@
-# React + TypeScript + Vite
+# Приложение для контроля расходов
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Задача состоит в том, чтобы продемонстрировать свои знания верстки и кодинга, также как и умение работать с незнакомыми библиотеками.
+Для того, чтобы сверстать элементы как показано на [макете](https://www.figma.com/design/z07jjI6lGAuvV2Ctt3dsZ1/%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-Live-coding?node-id=0-1&t=8vk9w57HGWwklt5K-1), нам пригодятся следующие элементы:
 
-Currently, two official plugins are available:
+- [Table](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Table/README.md)
+- [Drawer](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Drawer/README.md)
+- [Input](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Input/README.md)
+- [Search & Suggest](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Search/README.md)
+- [Button](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Button/README.md)
+- [Typography](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Typography/README.md)
+- [Chips](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Chips/README.md)
+- [Badge](https://github.com/Raiffeisen-DGTL/ViennaUI/blob/master/src/Badge/README.md)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Полезные ссылки:
+[Ссылка](https://github.com/Raiffeisen-DGTL/ViennaUI) на дизайн систему
+[Документация](https://styled-components.com/docs) для styled-components
